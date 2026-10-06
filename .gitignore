@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+# Environment variables
+.env
+# Python cache
+__pycache__/
+*.pyc
+# ChromaDB local database
+database/chroma/
+# Temporary files
+*.tmp
+*.log
